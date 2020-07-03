@@ -86,9 +86,9 @@ const App = () => {
   return (
     <div>
       <h1 id="something-important">adopt me</h1>
-      {/* <Pet name="Luna" animal="dog" breed="havanese" />
+      <Pet name="Luna" animal="dog" breed="havanese" />
       <Pet name="pepper" animal="bird" breed="cock" />
-      <Pet name="llol" animal="cat" breed="mixed" /> */}
+      <Pet name="llol" animal="cat" breed="mixed" />
       <SearchParams />
     </div>
   );
